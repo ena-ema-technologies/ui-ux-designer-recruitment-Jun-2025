@@ -1,5 +1,3 @@
-# Skill Assessment Task: Landing Page Design for Vessel Inspection Platform
-
 ## Overview
 
 This assessment aims to evaluate your ability to design a compelling, high-quality landing page for a web platform that connects **ship owners** and **ship inspectors** for streamlined inspection services.
